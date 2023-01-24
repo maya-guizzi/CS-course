@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "CS-course"
+  site-url: "https://maya-guizzi.github.io/CS-course"
+  description: "project for H-FARM cs course"
+  repo-branch: main
+  repo-url: "https://github.com/maya-guizzi/CS-course"
